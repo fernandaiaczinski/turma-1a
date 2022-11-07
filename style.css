@@ -10,5 +10,12 @@ p {
 }
 #elenco {
      width: 150px;
-     
+     height: 150px;
+}
+#final {
+     width: 30% ;
+     weight: 30% ;
+}
+.contatos {
+    background-color: black;
 }
